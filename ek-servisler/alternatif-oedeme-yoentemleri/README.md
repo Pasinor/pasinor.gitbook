@@ -1,0 +1,2 @@
+# Alternatif Ödeme Yöntemleri
+
