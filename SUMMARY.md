@@ -67,3 +67,8 @@
   * [Shopify](desteklenen-platformlar/hazir-altyapilar/shopify.md)
 * [Yazılım Dilleri Kütüphaneleri](desteklenen-platformlar/yazilim-dilleri-kuetuephaneleri/README.md)
   * [PHP](desteklenen-platformlar/yazilim-dilleri-kuetuephaneleri/php.md)
+  * [.Net](desteklenen-platformlar/yazilim-dilleri-kuetuephaneleri/.net.md)
+  * [Python](desteklenen-platformlar/yazilim-dilleri-kuetuephaneleri/python.md)
+  * [Java](desteklenen-platformlar/yazilim-dilleri-kuetuephaneleri/java.md)
+  * [Node.JS](desteklenen-platformlar/yazilim-dilleri-kuetuephaneleri/node.js/README.md)
+    * [Page 1](desteklenen-platformlar/yazilim-dilleri-kuetuephaneleri/node.js/page-1.md)
