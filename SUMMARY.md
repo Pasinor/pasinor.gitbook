@@ -23,7 +23,7 @@
 * [BKM Express](oedeme-stratejileri/bkm-express/README.md)
   * [Ortak Ödeme Sayfası İle BKM Express](oedeme-stratejileri/bkm-express/ortak-oedeme-sayfasi-ile-bkm-express.md)
   * [Servis İle BKM Express](oedeme-stratejileri/bkm-express/servis-ile-bkm-express.md)
-  * [BKM Express Test Ortamı Bilgileri](oedeme-stratejileri/bkm-express/bkm-express-test-ortami-bilgileri.md)
+  * [BKM Express Test Ortam Bilgileri](https://pasinor-anonim-sirketi.gitbook.io/pasinor/test-kartlari#bkm-test-bilgileri)
 
 ## Ürünler
 
